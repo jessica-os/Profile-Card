@@ -14,3 +14,4 @@ Este projeto faz parte de um desafio do módulo de HTML e CSS Avançado, dentro 
 - Mobile:
 <img src="./src/Readme-images/Captura de tela de 2023-05-07 15-01-17.png" alt="">
 
+ Para ver o projeto [ Clique aqui ](https://jessica-os.github.io/Profile-Card/)
